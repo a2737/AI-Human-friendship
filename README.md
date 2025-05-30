@@ -1,1 +1,1 @@
-# AI-Human-friendship
+# AI-student-friendship
